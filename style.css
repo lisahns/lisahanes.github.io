@@ -1,0 +1,125 @@
+
+
+.background {
+  background-color: #dfedd6;
+  font-family: 'Lato', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+/*navbar*/
+
+ul {
+  list-style-type: none;
+  display:inline-block;
+  margin: 0;
+  padding: 0;
+  color:#629c44;
+  overflow:hidden;
+}
+li {
+  display:inline-end;
+  float: right;
+  font-size: 20px;
+}
+  #navbar-item {
+    display: block;
+    padding: 30px;
+    color:#355723;
+  }
+
+  .list-group-item:hover {
+    background-color: #355723;
+  }
+  /*design*/
+
+h1 {color: #355723;
+  display:inline-block;
+padding-top:20px;
+}
+
+h2 {color: #355723;
+  padding: 50px;
+text-align: center;
+font-weight:700;
+}
+
+/*image*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.banner {width: 100%;}
+
+a:link {
+  text-decoration: none;
+  color:#355723;
+}
+
+#carouselExampleDark {width:400px;
+display:block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.newsletter {margin:100px;
+  color:#dfedd6;
+  background-color:#355723;
+  display:block;
+  padding: 100px;
+}
+
+#nav-tabContent {background-color:#dfedd6;
+}
+
+.vegetable {width: 400px;
+float:left;
+}
+
+.seedling {
+  text-align:center;
+ 
+}
+#seedImage {width:50px;
+
+}
+.harvest {
+  float:right
+ }
+
+#harvestImage {width:50px;
+}
+
+h3 {text-align: center;}
+
+.info {
+  display: flex;
+  justify-content:space-around;
+}
+
+h3 {padding:30px;
+font-weight:700;
+}
+
+main { min-height: 100vh; }
+
+footer {
+  display: flex;
+align-items: flex-end;
+}
+
+.infoVeggies {padding: 150px;
+text-align: center;
+}
+
+.email {
+  float:right;
+}
+
+.navlink {
+  color:#355723;
+
+}
